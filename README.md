@@ -2,17 +2,7 @@
 Build a model that is able to classify customer complaints based on the products/services. By doing so, we can segregate these tickets into their relevant categories and, therefore, help in the quick resolution of the issue.
 
 
-Q&A
-Problem Statement
-Case Study: Automatic Ticket Classification
-Welcome to this case study on ‘Automatic Ticket Classification’. Let’s start the segment by understanding the problem statement from Alankar and getting an idea of the case study.
-
-Play Video4848491
-In this case study, you will create a model that can automatically classify customer complaints based on the products and services that the ticket mentions.
-
- 
-
-Problem statement
+# Problem statement
 For a financial company, customer complaints carry a lot of importance, as they are often an indicator of the shortcomings in their products and services. If these complaints are resolved efficiently in time, they can bring down customer dissatisfaction to a minimum and retain them with stronger loyalty. This also gives them an idea of how to continuously improve their services to attract more customers. 
 
  
@@ -25,7 +15,7 @@ In this case study, you will be working as an NLP engineer for a financial compa
 
  
 
-Business goal
+# Business goal
 You need to build a model that is able to classify customer complaints based on the products/services. By doing so, you can segregate these tickets into their relevant categories and, therefore, help in the quick resolution of the issue.
 
  
@@ -50,23 +40,11 @@ With the help of topic modelling, you will be able to map each ticket onto its r
 
  
 
-Dataset
+# Dataset
 Let’s first download the data set.
 
  
-
-The data set given to you is in the .json format and contains 78,313 customer complaints with 22 features. You need to convert this to a dataframe in order to process the given complaints.
-
- 
-
- 
-
-Starter code
-You can download the starter code here
-
- 
-
-Expected tasks
+# Expected tasks
 You need to perform the following eight major tasks to complete the assignment:
 
 Data loading
